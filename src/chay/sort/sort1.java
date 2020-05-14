@@ -6,7 +6,7 @@ public class sort1 {
 	/**
 	 * 地精排序
 	 * 
-	 * @param args
+	 * @param 小半仙儿
 	 */
 
 	public static void goblinSort(int[] str) {
